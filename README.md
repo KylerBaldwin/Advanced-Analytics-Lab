@@ -1,5 +1,5 @@
 # Advanced-Analytics-Lab
-A comprehensive collection of analytics, ML, and AI projects completed as part of my Advanced Analytics coursework (Fall 2025). 
+A collection of analytics, ML, and AI projects completed as part of my Advanced Analytics coursework. 
 
 ---
 
